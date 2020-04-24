@@ -6,4 +6,6 @@ defprom-https://petrocollege.myalm.ru/pm/Exeam/module/sourcecontrol/files/scm-fi
 
 TestCase - https://petrocollege.myalm.ru/pm/Exeam/module/testing/list?area=favs
 
+Скриншоты работы приложения - https://petrocollege.myalm.ru/pm/Exeam/module/sourcecontrol/files?path=25572f3df5a1f0c48f1386b3ae6f38f609dd1566&subversion=14
+
 Все остальный файлы доступные в defprome или же их версии с удобоворимым видом - https://petrocollege.myalm.ru/pm/Exeam/module/sourcecontrol/files/scm-files?report=scm-files&basemodule=sourcecontrol/files&area=favs
